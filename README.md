@@ -2,6 +2,6 @@
 Arcade silly game
 
 
-Artwork from http://kenney.nl
+Character artwork from http://kenney.nl
 
-Tacos image from Google Image
+Tacos & Rock images from Google Image
